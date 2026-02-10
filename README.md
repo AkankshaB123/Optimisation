@@ -1,2 +1,2 @@
 # Optimisation
-1. Optimising Media Mix Using Incrementality Analysis
+1. Machine Learning - Gradient Descent, Gradient Boosting, XGBoost, Hyperparameters, Regularization, Cross-Validation(Model Tuning)
